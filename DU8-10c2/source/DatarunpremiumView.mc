@@ -3,6 +3,7 @@ using Toybox.Application.Storage;
 using Toybox.Background;
 using Toybox.Communications;
 using Toybox.System;
+using Toybox.Time;
 
 class DU810c2App extends Toybox.Application.AppBase {
 	hidden var temp;
